@@ -23,7 +23,7 @@
                 <textarea name="txtExperiencia" id="txtExperiencia" cols="30" rows="10"></textarea>
             </div>
             <div class="form-group">
-                <labela for="txtCedula">Cedula</labela>
+                <label for="txtCedula">Cedula</label>
                 <input type="file" id="txtCedula" name="txtCedula">
             </div>
             <div class="form-group">
