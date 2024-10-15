@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="form-container">
-        <form action="procesar03.php" method="post">
+        <form action="procesar03.php" method="post" enctype="multipart/form-data">
             <h2>Hoja de vida</h2>
             <div class="form-group">
                 <label for="txtNombre">Nombre</label>
