@@ -16,10 +16,6 @@
 
             if($operacion == "sumar"){
                 $resultado = $numero1 + $numero2;
-<<<<<<< HEAD
-=======
-                echo "<span>El resultado de $operacion $numero1 y $numero2 es: $resultado</span>";
->>>>>>> e3fd1cde1151176106ed3e928a6233a51f839a03
             }elseif($operacion == "restar"){
                 $resultado = $numero1 - $numero2;
                 echo "<span>El resultado de $operacion $numero1 y $numero2 es: $resultado</span>";
