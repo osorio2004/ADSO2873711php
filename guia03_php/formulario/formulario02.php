@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>formulario usuario</title>
+    <link rel="stylesheet" href="./css/formulario02.css">
 </head>
 <body>
     <div class="form-container">
-        <form action="porcesar02.php" method="post">
+        <form action="procesar02.php" method="post">
             <h2>Crear usuario</h2>
             <div class="form-group">
                 <label for="txtNombre">Nombre</label>
@@ -31,4 +32,3 @@
         </form>
     </div>
 </body>
-</html>
