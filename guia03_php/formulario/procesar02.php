@@ -9,7 +9,11 @@
 <body>
     <div class="info-container">
         <?php
+<<<<<<< HEAD
             //Validacion co operador ternario
+=======
+            //Validacion con operador ternario
+>>>>>>> e3fd1cde1151176106ed3e928a6233a51f839a03
             $nombre = isset($_POST["txtNombre"])?$_POST["txtNombre"]:null;
             $email = isset($_POST["txtEmail"])?$_POST["txtEmail"]:null;
             //Validacion nulo seguro
